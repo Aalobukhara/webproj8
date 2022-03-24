@@ -1,0 +1,18 @@
+body{
+    background-color: gainsboro ;
+}
+.bxs{
+    box-shadow: 0px 0px 18px rgba(0, 0, 0,0.1);
+}
+.iconsrch{
+    height: 16px;
+    width: 16px;
+}
+
+.hint{
+    border-radius: 3px;
+    position: fixed;
+    right: 10%;
+    bottom: 10%;
+    background-color: gainsboro;
+}
